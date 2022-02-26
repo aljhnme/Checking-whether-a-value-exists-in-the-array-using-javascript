@@ -1,0 +1,1 @@
+# Checking-whether-a-value-exists-in-the-array-using-javascript
